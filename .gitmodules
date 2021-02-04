@@ -1,0 +1,6 @@
+[submodule "PFMTaskOne"]
+	path = PFMTaskOne
+	url = git@github.com:jameone/PFMTaskOne.git
+[submodule "PFM_task_two"]
+	path = PFM_task_two
+	url = git@github.com:jameone/PFM_task_two.git
